@@ -14,5 +14,6 @@ public enum MessagesProperties {
 	ENTITY_NOT_FOUND,
 	NAME_REQUIRED,
 	PASSWORD_REQUIRED,
-	
+	CLI_FINDED,
+	CLI_DELETE,
 }
